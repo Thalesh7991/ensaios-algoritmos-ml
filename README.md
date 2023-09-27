@@ -33,4 +33,8 @@ funcionamento em determinados cenário e conseguir transmitir esse conhecimento 
 
 ![Image2](/notebooks/Clusterizacao/kmeans.png)
 
+#### Affinity Propagation
+
+![Image3](/notebooks/Clusterizacao/affinity.png)
+
 
