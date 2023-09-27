@@ -1,5 +1,7 @@
 # Ensaio De Machine Learning
 
+![Image1](/notebooks/Regressao/performance.png)
+
 ## Problema de Negócio
 
 <p>A empresa Data Money fornece serviços de consultoria de Análise e Ciência de Dados para grandes
