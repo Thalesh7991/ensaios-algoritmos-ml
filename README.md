@@ -41,4 +41,9 @@ funcionamento em determinados cenário e conseguir transmitir esse conhecimento 
 
 ![Image4](/notebooks/Classificacao/comparacao_classifier2.png)
 
+### Regressão
+
+![Image5](/notebooks/Regressao/comparacao_regression3.png)
+
+
 
