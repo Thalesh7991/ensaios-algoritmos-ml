@@ -37,4 +37,8 @@ funcionamento em determinados cenário e conseguir transmitir esse conhecimento 
 
 ![Image3](/notebooks/Clusterizacao/affinity.png)
 
+### Classificação
+
+![Image4](/notebooks/Classificacao/comparacao_classifier.png)
+
 
