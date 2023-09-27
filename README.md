@@ -25,4 +25,12 @@ funcionamento em determinados cenário e conseguir transmitir esse conhecimento 
 
 ## Resultados Obtidos
 
+### Clusterização
+
+<p>Foram avaliados 2 algoritmos de Clusterização: KMEANS e Affinity Propagation</p>
+
+#### KMEANS
+
+![Image2](/notebooks/Clusterizacao/kmeans.png)
+
 
