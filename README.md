@@ -39,6 +39,6 @@ funcionamento em determinados cenário e conseguir transmitir esse conhecimento 
 
 ### Classificação
 
-![Image4](/notebooks/Classificacao/comparacao_classifier.png)
+![Image4](/notebooks/Classificacao/comparacao_classifier2.png)
 
 
