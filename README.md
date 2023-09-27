@@ -22,3 +22,7 @@ escolha do algoritmo para cada situação seja a mais correta possível.</p>
 <p>Como Cientista de Dados recém contratado pela empresa, a sua principal tarefa será realizar 3 ensaios com
 algoritmos de Classificação, Regressão e Clusterização, a fim de extrair aprendizados sobre o seu
 funcionamento em determinados cenário e conseguir transmitir esse conhecimento para o restante do time</p>
+
+## Resultados Obtidos
+
+
