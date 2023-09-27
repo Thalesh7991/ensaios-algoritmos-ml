@@ -1,6 +1,6 @@
 # Ensaio De Machine Learning
 
-![Image1](/notebooks/Regressao/performance.png)
+![Image1](/notebooks/Regressao/performance.jpg)
 
 ## Problema de Negócio
 
