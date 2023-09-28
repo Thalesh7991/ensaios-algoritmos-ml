@@ -14,9 +14,33 @@ consultorias vem entregando aos seus clientes.</p>
 Clusterização, para estudar a mudança do comportamento da performance, a medida que os
 valores dos principais parâmetros de controle de overfitting e underfitting mudam.</p>
 
+## Planejamento da Solução
+
+<p>O produto final uma análise mostrando a performance dos algoritmos, avaliados usando múltiplas
+métricas, para 3 conjuntos de dados diferentes: Treinamento, validação e teste.</p>
+
+### Algoritmos Ensaidos
+
+#### Classificação
+
+**Algoritmos**: KNN, Decision Tree, Random Forest e Logistic Regression
+**Métricas de performance**: Accuracy, Precision, Recall e F1-Score
+
+
+#### Regressão
+
+**Algoritmos**: Decision Tree Regressor, Random Forest Regressor, Polinomial Regression, 
+   Linear Regression Lasso, Linear Regression Ridge, Linear Regression Elastic Net,
+**Métricas de performance**: R2, MSE, RMSE, MAE e MAPE
+
+#### Clusterização
+
 ## Resultados Obtidos
 
 ### Clusterização
+
+**Algoritmos**: K-Means e Affinity Propagation
+**Métricas de performance**: Silhouette Score
 
 <p>Foram avaliados 2 algoritmos de Clusterização: KMEANS e Affinity Propagation</p>
 
