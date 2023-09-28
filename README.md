@@ -45,7 +45,9 @@ funcionamento em determinados cenário e conseguir transmitir esse conhecimento 
 
 ### Classificação
 
-Dentre todas as métricas de Classificação o Algoritmo **KNN** foi o único que apresentou queda brusca de performance em relação aos dados de Treino, Validação e Teste. 
+<p>Dentre todas as métricas de Classificação o Algoritmo **KNN** foi o único que apresentou queda brusca de performance em relação aos dados de Treino, Validação e Teste.</p>
+
+<p>Os demais algoritmos mantiveram um equilíbrio de performance, mostrando um **poder maior de generalização** </p>
 
 ![Image4](/notebooks/Classificacao/images/comparacao_classifier2.png)
 
