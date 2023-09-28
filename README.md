@@ -14,12 +14,12 @@ empresas clientes, graças a performance de seus algoritmos de Machine Learning.
 Dados da empresa, é a principal motivo dos ótimos resultados que as consultorias vem entregando aos seus
 clientes.</p>
 
-## O Desafio
-
 <p>Para continuar crescendo a expertise do time, os Cientistas de Dados acreditam que é extremamente
 importante realizar ensaios nos algoritmos de Machine Learning para adquirir uma experiência cada vez
 maior sobre o seu funcionamento e em quais cenários as performances são máximas e mínimas, para que a
 escolha do algoritmo para cada situação seja a mais correta possível.</p>
+
+## O Desafio
 
 <p>Como Cientista de Dados recém contratado pela empresa, a sua principal tarefa será realizar 3 ensaios com
 algoritmos de Classificação, Regressão e Clusterização, a fim de extrair aprendizados sobre o seu
