@@ -33,6 +33,8 @@ funcionamento em determinados cenário e conseguir transmitir esse conhecimento 
 
 #### KMEANS
 
+**O Algortimo KMeans apresentou melhor Silhouette Score com 3 clusters**
+
 ![Image2](/notebooks/Clusterizacao/kmeans.png)
 
 #### Affinity Propagation
