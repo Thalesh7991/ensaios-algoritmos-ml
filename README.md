@@ -39,6 +39,8 @@ funcionamento em determinados cenário e conseguir transmitir esse conhecimento 
 
 #### Affinity Propagation
 
+**Com Affinity Propagation o melhor Silhouette Score encontrado foi com o parâmetro preference = -50, onde foram encontrados 7 clusters**
+
 ![Image3](/notebooks/Clusterizacao/affinity.png)
 
 ### Classificação
