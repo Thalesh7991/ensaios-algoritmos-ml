@@ -49,7 +49,7 @@ funcionamento em determinados cenário e conseguir transmitir esse conhecimento 
 
 ### Regressão
 
-![Image5](/notebooks/Regressao/comparacao_regression3.png)
+![Image5](/notebooks/Regressao/images/comparacao_regression3.png)
 
 
 
