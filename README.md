@@ -53,6 +53,8 @@ Os demais algoritmos mantiveram um equilíbrio de performance, mostrando um **po
 
 ### Regressão
 
+Dentre os Algoritmos de Regressão, o que teve melhor performance em todas as métricas foi a **Random Forest Regressor**
+
 ![Image5](/notebooks/Regressao/images/comparacao_regression3.png)
 
 
