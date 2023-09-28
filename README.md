@@ -1,6 +1,6 @@
 # Ensaio De Machine Learning
 
-![Image1](/notebooks/Regressao/performance.jpg)
+![Image1](/notebooks/Regressao/images/performance.jpg)
 
 ## Problema de Negócio
 
@@ -35,17 +35,17 @@ funcionamento em determinados cenário e conseguir transmitir esse conhecimento 
 
 **O Algortimo KMeans apresentou melhor Silhouette Score com 3 clusters**
 
-![Image2](/notebooks/Clusterizacao/kmeans.png)
+![Image2](/notebooks/Clusterizacao/images/kmeans.png)
 
 #### Affinity Propagation
 
 **Com Affinity Propagation o melhor Silhouette Score encontrado foi com o parâmetro preference = -50, onde foram encontrados 7 clusters**
 
-![Image3](/notebooks/Clusterizacao/affinity.png)
+![Image3](/notebooks/Clusterizacao/images/affinity.png)
 
 ### Classificação
 
-![Image4](/notebooks/Classificacao/comparacao_classifier2.png)
+![Image4](/notebooks/Classificacao/images/comparacao_classifier2.png)
 
 ### Regressão
 
